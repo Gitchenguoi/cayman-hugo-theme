@@ -2,15 +2,15 @@
 label: chenguozi
 hide_body: false
 fields:
-- name: ____s_f_
+- name: chenguozi
   type: datetime
-  label: 的士师傅
-  description: 阿斯顿发送到发
+  description: "<em>阿斯顿发送到发</em>"
   config:
     required: false
-    date_format: 
-    time_format: 
+    date_format: 12/1/2012
+    time_format: '03:45'
     display_utc: false
   hidden: true
+  label: 喜
 pages:
 - exampleSite/content/post/项目一/frist.md
