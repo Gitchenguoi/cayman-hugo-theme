@@ -12,5 +12,15 @@ fields:
     display_utc: false
   hidden: true
   label: 喜
+- name: 'no'
+  type: number
+  description: sdfkde
+  default: 0
+  required: true
+  config:
+    min: 1
+    max: 100
+    step: 1
+  label: 'no'
 pages:
 - exampleSite/content/post/项目一/frist.md
