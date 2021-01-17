@@ -13,4 +13,5 @@ fields:
     display_utc: false
   hidden: true
 pages:
+- exampleSite/content/about/siex.md
 - exampleSite/content/post/frist.md
