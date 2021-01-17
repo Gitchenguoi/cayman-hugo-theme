@@ -14,3 +14,4 @@ fields:
   hidden: true
 pages:
 - exampleSite/content/post/frist.md
+- exampleSite/content/post/frist.md-copy.md
