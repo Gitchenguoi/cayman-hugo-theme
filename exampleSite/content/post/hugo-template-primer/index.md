@@ -1,6 +1,6 @@
 +++
 date = 2014-04-01T16:00:00Z
-tags = []
+tags = ["电子"]
 title = "(Hu)go Template Primer"
 
 +++
