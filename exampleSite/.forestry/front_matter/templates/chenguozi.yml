@@ -1,4 +1,14 @@
 ---
 label: chenguozi
 hide_body: false
-fields: []
+fields:
+- name: ____s_f_
+  type: datetime
+  label: 的士师傅
+  description: 阿斯顿发送到发
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
