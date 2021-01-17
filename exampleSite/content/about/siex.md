@@ -1,6 +1,5 @@
 +++
 ____s_f_ = ""
-draft = true
 
 +++
 mj
