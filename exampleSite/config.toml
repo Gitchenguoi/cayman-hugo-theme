@@ -8,6 +8,10 @@ pygmentsStyle = "pygments"
 theme = "cayman-hugo-theme"
 title = "Cayman"
 [[menu.nav]]
+name = "项目一"
+url = "/projetc1"
+weight = 4
+[[menu.nav]]
 name = "介绍"
 url = "/about/"
 weight = 3
