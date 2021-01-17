@@ -12,3 +12,5 @@ fields:
     time_format: 
     display_utc: false
   hidden: true
+pages:
+- exampleSite/content/post/项目一/frist.md
