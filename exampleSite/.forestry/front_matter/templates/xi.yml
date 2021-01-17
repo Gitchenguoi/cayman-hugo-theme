@@ -36,3 +36,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- exampleSite/content/post/项目一/efsadf.md
