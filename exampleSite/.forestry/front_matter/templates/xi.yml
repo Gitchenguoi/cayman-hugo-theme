@@ -1,4 +1,38 @@
 ---
 label: xi
 hide_body: false
-fields: []
+fields:
+- name: x
+  type: text
+  config:
+    required: false
+  label: x
+- name: sx
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: sx
+- name: de
+  type: datetime
+  label: de
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: sdfe
+  type: tag_list
+  default: []
+  label: sdfe
+- name: fef
+  type: blocks
+  label: fef
+  template_types: []
+  config:
+    min: 
+    max: 
