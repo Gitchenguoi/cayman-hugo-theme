@@ -1,3 +1,4 @@
 ---
-title: Blog
+title: 博客
+
 ---
