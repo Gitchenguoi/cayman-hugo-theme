@@ -12,5 +12,3 @@ fields:
     time_format: 
     display_utc: false
   hidden: true
-pages:
-- exampleSite/content/post/frist.md
