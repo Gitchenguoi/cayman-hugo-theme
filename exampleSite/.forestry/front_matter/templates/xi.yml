@@ -38,5 +38,6 @@ fields:
     max: 
 pages:
 - exampleSite/content/post/migrate-from-jekyll/asdfewfef.md
+- exampleSite/content/post/migrate-from-jekyll/asdfewfef.md-copy.md
 - exampleSite/content/post/项目一/efsadf.md
 - exampleSite/content/post/项目一/wefasdf.md
